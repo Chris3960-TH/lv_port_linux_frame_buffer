@@ -6,6 +6,7 @@
 #include <pthread.h>
 #include <time.h>
 #include <sys/time.h>
+// comment
 
 #define DISP_BUF_SIZE (128 * 1024)
 
